@@ -120,5 +120,5 @@ _Agora basta rodar a aplicação._
 yarn start
 
 ___
-'
+```
 [LinkedIn](https://www.linkedin.com/in/saraivafelipe27/)

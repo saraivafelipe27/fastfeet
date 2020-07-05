@@ -99,7 +99,7 @@ _Esta aplicação foi desenvolvida usando o Expo. [Clique aqui](https://expo.io/
 cd mobile
 yarn
 ```
-
+[LinkedIn](https://www.linkedin.com/in/saraivafelipe27/)
 _Após isto, você precisa mudar para o ip de sua máquina neste arquivo:_
 [api.js](https://github.com/saraivafelipe27/fastfeet/blob/master/mobile/src/services/api.js)
 ```javascript
@@ -120,5 +120,5 @@ _Agora basta rodar a aplicação._
 yarn start
 
 ___
-
+'
 [LinkedIn](https://www.linkedin.com/in/saraivafelipe27/)
